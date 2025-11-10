@@ -8,17 +8,20 @@ Features
 - See total and category-wise spending  
 - Interactive charts (bar and pie)  
 - Data stored in a local CSV file (`expenses.csv`)
+  
 Tools & Technologies  
 - **Python**  
 - **Streamlit**  
 - **Pandas**  
 - **Matplotlib / Plotly**  
 - **CSV file for storage**
+  
 Output
 	•	Total spending per category
 	•	Monthly expense trends
 	•	Pie chart for category distribution
 	•	Filtered expense table
+
 Future Enhancements
 	•	Add user login
 	•	Connect to database (SQLite or Cloud)
