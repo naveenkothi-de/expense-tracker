@@ -25,6 +25,8 @@ Future Enhancements
 	•	Budget alerts and savings insights
 	•	Deploy on Streamlit Cloud or Azure
 
+
+
 <img width="1280" height="800" alt="Screenshot 2025-11-05 at 7 07 35 pm" src="https://github.com/user-attachments/assets/4bccd862-a9f7-4787-af62-8757d0b8ca81" />
 <img width="1280" height="800" alt="Screenshot 2025-11-05 at 7 07 45 pm" src="https://github.com/user-attachments/assets/e1bb97d2-83ee-4e86-a382-e141fc7e5a0f" />
 <img width="1280" height="800" alt="Screenshot 2025-11-05 at 7 07 54 pm" src="https://github.com/user-attachments/assets/025ebd2a-4d0c-4349-b16c-fb0e9c532ef3" />
